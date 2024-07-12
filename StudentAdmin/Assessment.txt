@@ -1,0 +1,15 @@
+45697,Test Assessment,50,50
+84959,Second Test,20,20
+94659,Project,30,30
+94961,Test2,50,50
+18912,Debugging,20,20
+32932,Beautiful Code,20,20
+38345,Deployment,20,20
+48212,Collaboration,20,20
+15798,CI/CD,20,20
+77871,Neural Networks,50,50
+54572,Algorithms,50,50
+74873,Load Balancing,75,75
+69637,IP Masking,25,25
+12632,OOP Java,50,50
+75586,Python,50,50

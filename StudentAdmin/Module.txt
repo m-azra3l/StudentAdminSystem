@@ -1,0 +1,12 @@
+97838,First,False,721412
+91719,Second,True,721412
+52891,TestDegree Module,False,642399
+72799,Module2,False,642399
+72628,Module3,False,642399
+69737,C#,False,666134
+89156,Next JS,False,666134
+24976,AspNet ,False,666134
+81699,Node JS,False,666134
+16551,Industrial programming,False,427528
+69775,Network security,False,427528
+42447,Machine learning,False,427528
